@@ -1,3 +1,5 @@
+![Firefox-css-for-MacOS](https://raw.githubusercontent.com/viesual/Firefox-CSS-for-MacOS/main/Firefox-CSS-for-MacOS.jpg)
+
 # Firefox-CSS-for-MacOS
 A custom Firefox CSS that works well with the current MacOS design. 
 It switches automatically between dark & light mode, depending on system settings.
