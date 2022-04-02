@@ -6,7 +6,7 @@ It switches automatically between dark & light mode, depending on system setting
 Changes only affect colors, no repositionings.
 I will update this file when necessary.
 
-# How to use
+## How to use
     
 1. Open Firefox
 2. Go into about:config
