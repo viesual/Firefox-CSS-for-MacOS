@@ -4,13 +4,13 @@ It switches automatically between dark & light mode, depending on system setting
 
 # How to use
     
-      1. Open Firefox
-      2. Go into about:config
-      3. Set "toolkit.legacyUserProfileCustomizations.stylesheets" to "true"
-      2. Go into about:profiles
-      3. Go to the root directory of your profile
-      4. Create an "chrome" folder
-      5. Place this file (userChrome.css) in the folder
-      6. Restart Firefox
+1. Open Firefox
+2. Go into about:config
+3. Set "toolkit.legacyUserProfileCustomizations.stylesheets" to "true"
+4. Go into about:profiles
+5. Go to the root directory of your profile
+6. Create an "chrome" folder
+7. Place this file (userChrome.css) in the folder
+8. Restart Firefox
      
 
