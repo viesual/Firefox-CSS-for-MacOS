@@ -3,7 +3,7 @@ A custom Firefox CSS that works well with the current MacOS design.
 It switches automatically between dark & light mode, depending on system settings.
 
 # How to use
-    /*:
+    
       1. Open Firefox
       2. Go into about:config
       3. Set "toolkit.legacyUserProfileCustomizations.stylesheets" to "true"
@@ -12,5 +12,5 @@ It switches automatically between dark & light mode, depending on system setting
       4. Create an "chrome" folder
       5. Place this file (userChrome.css) in the folder
       6. Restart Firefox
-     */
+     
 
