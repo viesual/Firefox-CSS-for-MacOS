@@ -53,3 +53,7 @@
 	box-shadow: none !important;
 }
 
+.PanelUI-subView toolbarseparator.proton-zap{
+	border-image: none !important;
+}
+
