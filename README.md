@@ -1,4 +1,4 @@
-![Firefox-css-for-MacOS](https://raw.githubusercontent.com/viesual/Firefox-CSS-for-MacOS/main/Firefox-CSS-for-MacOS.jpg)
+![Firefox-css-for-MacOS](https://raw.githubusercontent.com/viesual/Firefox-CSS-for-MacOS/main/firefox-css-for-macos.jpg)
 
 # Firefox CSS for MacOS
 A custom Firefox CSS that works well with the current MacOS design.  
