@@ -31,18 +31,19 @@
 :root{
 	--toolbar-bgcolor: var(--neutral-1) !important;
 	--lwt-brighttext-url-color: var(--link) !important;
-	--urlbar-min-height: 28px;
+	--urlbar-min-height: 28px !important;
 	--short-notification-gradient: var(--link) !important;
 	--toolbar-field-focus-background-color: var(--neutral-2)  !important;
 	--arrowpanel-background: var(--neutral-1)  !important;
 	--lwt-selected-tab-background-color: var(--neutral-3)  !important;
 	--toolbar-field-background-color: var(--neutral-2) !important;
 	--focus-outline-color: var(--link) !important;
+	--button-bgcolor: var(--neutral-3) !important;
 }
 
 #titlebar{
 	background-color: var(--neutral-1);
-	padding-top:2px;
+	padding-top:2px !important;
 }
 
 #tabbrowser-tabs:not([movingtab]) > #tabbrowser-arrowscrollbox > .tabbrowser-tab > .tab-stack > .tab-background[multiselected="true"], #tabbrowser-tabs:not([movingtab]) > #tabbrowser-arrowscrollbox > .tabbrowser-tab > .tab-stack > .tab-background[selected="true"]{
