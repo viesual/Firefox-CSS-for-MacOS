@@ -3,8 +3,9 @@
 # Firefox CSS for MacOS
 A custom Firefox CSS that works well with the current MacOS design.  
 It switches automatically between dark & light mode, depending on system settings.  
-Changes only affect colors, no repositionings.
-I will update this file when necessary.
+Changes only affect colors, a few margins and paddings - no repositionings.
+Some colors still need to be adjusted, it's a work in progress.
+I use this file on a daily basis, if some updates from Apple or Mozilla break the adjustments I will update the necessary fields.
 
 ## How to use
     
